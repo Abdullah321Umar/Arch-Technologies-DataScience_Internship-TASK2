@@ -126,18 +126,33 @@ It proves how historical data, when combined with analytical precision and creat
 ---
 
 ### ⚙️🧭 Tools and Technologies Employed
-In this project, a diverse suite of cutting-edge tools and technologies was utilized to ensure a seamless, efficient, and insightful machine learning workflow. Each tool played a crucial role — from data preprocessing to model building and visualization. 🚀
-### 🔧 Programming Language
-- Python 🐍 — The powerhouse language for data science and machine learning due to its readability, vast ecosystem, and flexibility.
+
+### 🐍 Programming Language
+- Python — The backbone of this project, chosen for its readability, versatility, and extensive ecosystem of data science libraries. Python served as the primary language for data preprocessing, visualization, and machine learning implementation throughout the project.
 ### 📊 Data Handling and Analysis
-- Pandas 🧩 — Used for data manipulation, cleaning, and exploratory data analysis (EDA).
-- NumPy ⚙️ — For performing mathematical and numerical operations efficiently.
-### 🤖 Machine Learning & Modeling
-- Scikit-Learn 🧠 — Implemented various machine learning algorithms, including Logistic Regression, Decision Trees, and Random Forests, to classify Titanic passengers’ survival outcomes.
-- Train-Test Split and Model Evaluation Metrics (Accuracy, Confusion Matrix, Classification Report) — Ensured the reliability and validity of the model’s predictive performance.
-### 🎨 Data Visualization
-- Matplotlib 📈 — Generated static and detailed visualizations to reveal hidden patterns in data.
-- Seaborn 🌈 — Crafted visually appealing, colorful, and statistical plots such as bar charts, heatmaps, and histograms for deeper insights.
+- Pandas — Utilized for efficient data manipulation, cleaning, and structuring of Tesla’s historical stock dataset. It enabled seamless operations like filtering, grouping, and feature engineering.
+- NumPy — Provided fast and reliable mathematical operations and numerical computations. It was essential for handling arrays, calculating moving averages, and performing mathematical transformations within the dataset.
+### 🎨 Data Visualization and Exploration
+- Matplotlib — Served as the foundation for creating static and detailed visualizations, including line plots, histograms, and trend analysis charts.
+- Seaborn — Enhanced visualization aesthetics with colorful, statistically rich plots such as correlation heatmaps, pairplots, and distribution graphs. Its dark-themed design added clarity and elegance to the analytical visuals.
+- Plotly — Introduced interactivity to the visual storytelling process, enabling dynamic and dark-mode plots like candlestick charts, 3D scatter plots, and time-series visualizations. This brought the financial data to life with motion and depth.
+### 🧠 Machine Learning and Predictive Modeling
+- Scikit-Learn — The central library for building and evaluating predictive models. It powered multiple algorithms, including:
+- Linear Regression for baseline trend estimation.
+- Decision Tree Regressor for identifying non-linear market patterns.
+- Random Forest Regressor for ensemble-based forecasting and improved accuracy.
+
+📈 Model Evaluation and Performance Metrics
+To validate and assess model reliability, several evaluation metrics were employed:
+- R² Score (Coefficient of Determination): Measured the model’s goodness of fit.
+- Mean Absolute Error (MAE): Evaluated average prediction deviation.
+- Mean Squared Error (MSE): Quantified variance between predicted and true values.
+- Root Mean Squared Error (RMSE): Represented prediction stability and accuracy.
+- These metrics collectively ensured the robustness and interpretability of the prediction results.
+
+### 🧩 Integration and Workflow
+
+By combining these technologies, the project achieved a seamless transition from raw financial data to intelligent market predictions. Each tool contributed uniquely — from data preprocessing and exploratory visualization to predictive modeling and evaluation — culminating in a professional, data-driven workflow that demonstrates the true essence of Data Science in Financial Forecasting.
 
 
 ---
