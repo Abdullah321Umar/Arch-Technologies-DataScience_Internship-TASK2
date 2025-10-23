@@ -166,7 +166,8 @@ Through coding, color, and computation — data science transforms the uncertain
 
 ### 💬 Final Thought
 > “Markets move fast, but data moves faster. Predicting the future isn’t magic — it’s mathematics, insight, and the courage to trust the trends.”
-— Abdullah Umer, Data Science Intern at Arch Technologies
+
+Author — Abdullah Umer, Data Science Intern at Arch Technologies
 
 ---
 
